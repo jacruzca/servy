@@ -1,13 +1,7 @@
 defmodule Servy do
-  @moduledoc """
-  Documentation for Servy.
-  """
-
   def hello(name) do
-    "Hello, #{name}!"
+    "Howdy, #{name}!"
   end
-
 end
 
-
-IO.puts Servy.hello("Jhon")
+# IO.puts Servy.hello("Elixir")
